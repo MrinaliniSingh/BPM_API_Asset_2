@@ -1,0 +1,51 @@
+$grades = {:assetIds=>{":1446531542_T_SD"=>"BwdjFoeDpf5CBII3WIpnLvOuI88_yBnS", 
+    ":1446531540_SD"=>"p3MTZseDqRCoI9d3eZcxwBEyNn3EGEfb", ":1446531540_T_SD"=>"NxMTZseDo1XBDhTXb0pF_mhIM2NBqMv-", 
+    ":1446531542_SD"=>"83MjZseDqulcjpnHIaXZlTIpZhSJFJPQ", ":1446531544_HD"=>"ZuMjZseDo7RCAaTVAteAbpwPa3LFBFsS", 
+    ":1446531540_HD"=>"oxMjZseDrVDJjyilugKRR4VW_r3qKtuW", ":1446531544_T_SD"=>"9qMjZseDr2zTpuHPlvdJSUxUlzyJjbjG", 
+    ":1446531544_SD"=>"ZsMjZseDrQBKcoA26YIQYHq4YXvfS3Vr", ":1446531542_HD"=>"81MjZseDo-0OHi5WmNMZAydl3bdvqLVU"}, 
+    :programeIds=>["1446531540", "1446531542", "1446531544"], 
+    "1446531540"=>{:start_date=>"2001-01-01T11:00:00.000Z", :end_date=>"2021-01-01T11:00:00.000Z", 
+      :offerType=>"PPV-Promotion-699", :deviceId=>["STBmanaged", "STBunmanaged", "CEMediaPlayer", "gameConsole", 
+        "tablet", "phone", "pc_mac", "pc_mac_play", "connTV"], :showID=>"1446531541", :category=>"TV_EPS", 
+        :programmeId=>"1446531540", :providerId=>"SON", :groupId=>"1446531542", 
+        :Title=>"E2EAutomationAssetTvEps_1446531540", :VideoFormat=>["SD", "HD"], 
+        :genre=>"Entertainment:Bollywood", :MaturityRating=>"G", :Subtitled=>"false", :Year=>"2003", 
+        :Colour=>"BlackAndWhite", :Languages=>"en", :Country=>"JP", ":Director"=>"Dadasaheb Phalake", 
+        ":Actor"=>"Prasad Oak", ":Writer"=>"Subodh Bhave", :SeasonNumber=>"653", :EpisodeNumber=>"10", 
+        :EpisodeTitle=>"E2EAutomationEpisode_1446531540", 
+        :ShortSynopsis=>"An experiment in advanced weather technology has turned farmland ", 
+        :LongSynopsis=>"An experiment in advanced weather technology has turned a desert 
+        canyon into fertile farmland ", :assetId=>"1446531540", :Duration=>"P0Y0M0DT0H0M0.000S", 
+        :AspectRatio=>"4x3", :Sound=>"Stereo", :trailerId=>"1446531540_T"}, 
+        "1446531542"=>{:start_date=>"2006-01-01T00:00:00.000Z", :end_date=>"2021-01-01T00:00:00.000Z", 
+          :deviceId=>["STBmanaged", "STBunmanaged", "CEMediaPlayer", "gameConsole", "tablet", "phone", "pc_mac",
+           "pc_mac_play", "connTV"], :category=>"MOVIE", :programmeId=>"1446531542", :providerId=>"Studio", 
+           :Title=>"E2EAutomationAssetMovie_1446531542", :VideoFormat=>["SD", "HD"], :MaturityRating=>"M", 
+           :Subtitled=>"false", :Year=>"2005", :Colour=>"BlackAndWhite", :Languages=>"en", :Country=>"US", 
+           ":Director"=>"Mrinalini Singh", ":Actor"=>"Anupama Bhise", ":Writer"=>"Manisha Lawate", 
+           :ShortSynopsis=>"An experiment in advanced weather technology has turned farmland ", 
+           :LongSynopsis=>"An experiment in advanced weather technology has turned a desert canyon into 
+           fertile farmland ", :assetId=>"1446531542", :Duration=>"P0Y0M0DT0H0M0.000S", :AspectRatio=>"4x3", 
+           :Sound=>"Stereo", :trailerId=>"1446531542_T"}, "1446531544"=>{:start_date=>"2006-01-01T11:00:00.000Z", 
+            :end_date=>"2021-01-01T11:00:00.000Z", :offerType=>"PPV-Promotion-DoublePack", 
+            :deviceId=>["STBmanaged", "STBunmanaged", "CEMediaPlayer", "gameConsole", "tablet", "phone", "pc_mac", 
+              "pc_mac_play", "connTV"], :showID=>"1446531545", :category=>"TV_NO_EPS", :programmeId=>"1446531544", 
+              :providerId=>"SON1", :groupId=>"1446531546", :Title=>"E2EAutomationAssetTvNoEps_1446531544", 
+              :VideoFormat=>["SD", "HD"], :MaturityRating=>"PG", :Subtitled=>"false", :Year=>"2006", 
+              :Colour=>"BlackAndWhite", :Languages=>"en", :Country=>"IN", ":Director"=>"Yash chopra", 
+              ":Actor"=>"Sidharth Jadhav", ":Writer"=>"Kanitkar Sir", :SeasonNumber=>"909", 
+              :ShortSynopsis=>"An experiment in advanced weather technology has turned farmland ", 
+              :LongSynopsis=>"An experiment in advanced weather technology has turned a desert canyon into 
+              fertile farmland ", :assetId=>"1446531544", :Duration=>"P0Y0M0DT0H0M0.000S", :AspectRatio=>"4x3", 
+              :Sound=>"Stereo", :trailerId=>"1446531544_T"}}
+
+              $hash[:assetId].each do |key|
+                key[1] [":1446531542  T SD","BwdjFoeDpf5CBII3WIpnLvOuI88_yBnS"]
+                lksdflksdf
+                comparison 
+
+                file.VideoFormat do |file|
+                $hash[':'+key[0].split('_')[0].split(':')[0]][:file]
+                end  
+
+              end

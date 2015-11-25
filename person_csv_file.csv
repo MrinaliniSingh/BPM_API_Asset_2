@@ -1,0 +1,9 @@
+ID,hash_Key,path,validation
+1,person_title,$.title,value
+2,programme_ids,$.programme_ids[0],value
+3,programme_roles,$.programme_roles[0]['id'],value
+4,person_id,$.id,value
+5,,$._links['self']['href'],200
+6,,$._links['ooyala:personProgrammes']['href'],200
+7,links_ooyala_personProgrammes_templated,$._links['ooyala:personProgrammes']['templated'],value
+,,$._links['ooyala:actedIn'][0]['href'],200

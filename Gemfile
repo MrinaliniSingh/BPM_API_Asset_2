@@ -1,0 +1,6 @@
+gem 'jsonpath'
+gem 'cucumber'
+gem 'CSV'
+gem 'net/http'
+gem 'json'
+gem 'jsonpath'

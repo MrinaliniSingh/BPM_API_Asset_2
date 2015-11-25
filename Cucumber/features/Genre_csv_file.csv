@@ -1,0 +1,113 @@
+ID,hash_Key,path,validation,
+1,genre_title,$.title,value,Entertainment:Bollywood_Automation
+2,genre_type,$.type,value,genre
+3,field_genre_type_en_0_target_id,$.field_genre_type['en'][0]['target_id'],value,2
+4,weight,$.weight,value,5
+5,featured_programme_ids_0,$.featured_programme_ids[0],value,50
+6,recommendations_rating_limit,$.recommendations_rating_limit,value,R18+
+7,maingenre,$.maingenre,value,tv
+8,id,$.id,value,513
+10,links_ooyala_genreProgrammes_templated,$._links['ooyala:genreProgrammes']['templated'],value,TRUE
+11,links_ooyala_genreSeries_href,$._links['ooyala:genreSeries']['href'],200,
+12,links_ooyala_genreSeries_templated,$._links['ooyala:genreSeries']['templated'],value,TRUE
+13,links_ooyala_programme_href,$._links['ooyala:programme']['href'],200,
+15,embedded_ooyala_programme_0_type,$._embedded['ooyala:programme'][0]['type'],value,programme
+16,embedded_ooyala_programme_0_field_color_en_0_value,$._embedded['ooyala:programme'][0]['field_color']['en'][0]['value'],value,BlackAndWhite
+17,embedded_ooyala_programme_0_field_color_en_0_format,$._embedded['ooyala:programme'][0]['field_color']['en'][0]['format'],value,null
+18,embedded_ooyala_programme_0_field_episode_number_en_0_value,$._embedded['ooyala:programme'][0]['field_episode_number']['en'][0]['value'],value,5
+19,embedded_ooyala_programme_0_field_episode_title_en_0_value,$._embedded['ooyala:programme'][0]['field_episode_title']['en'][0]['value'],value,API_Episode 1
+20,embedded_ooyala_programme_0_field_episode_title_en_0_format,$._embedded['ooyala:programme'][0]['field_episode_title']['en'][0]['format'],value,null
+21,embedded_ooyala_programme_0_field_group_id_en_0_value,$._embedded['ooyala:programme'][0]['field_group_id']['en'][0]['value'],value,512345
+22,embedded_ooyala_programme_0_field_group_id_en_0_format,$._embedded['ooyala:programme'][0]['field_group_id']['en'][0]['format'],value,null
+23,embedded_ooyala_programme_0_field_programme_country_en_0_value,$._embedded['ooyala:programme'][0]['field_programme_country']['en'][0]['value'],value,JP
+24,embedded_ooyala_programme_0_field_programme_country_en_0_format,$._embedded['ooyala:programme'][0]['field_programme_country']['en'][0]['format'],value,null
+25,embedded_ooyala_programme_0_field_programme_credits_source_en_0_value,$._embedded['ooyala:programme'][0]['field_programme_credits_source']['en'][0]['value'],value,bigpond
+26,embedded_ooyala_programme_0_field_programme_season_id_en_0_target_id,$._embedded['ooyala:programme'][0]['field_programme_season_id']['en'][0]['target_id'],value,113
+27,embedded_ooyala_programme_0_field_programme_synopsis_source_en_0_value,$._embedded['ooyala:programme'][0]['field_programme_synopsis_source']['en'][0]['value'],value,rottentomatoes
+28,embedded_ooyala_programme_0_field_programme_type_en_0_value,$._embedded['ooyala:programme'][0]['field_programme_type']['en'][0]['value'],value,TV_EPS
+29,embedded_ooyala_programme_0_field_rotten_tomatoes_movie_en_0_target_id,$._embedded['ooyala:programme'][0]['field_rotten_tomatoes_movie']['en'][0]['target_id'],value,209
+30,embedded_ooyala_programme_0_field_rt_country_en_0_iso2,$._embedded['ooyala:programme'][0]['field_rt_country']['en'][0]['iso2'],value,AU
+31,embedded_ooyala_programme_0_field_short_synopsis_en_0_value,$._embedded['ooyala:programme'][0]['field_short_synopsis']['en'][0]['value'],value,test for API
+32,embedded_ooyala_programme_0_field_short_synopsis_en_0_format,$._embedded['ooyala:programme'][0]['field_short_synopsis']['en'][0]['format'],value,null
+33,embedded_ooyala_programme_0_field_synopsis_en_0_value,$._embedded['ooyala:programme'][0]['field_synopsis']['en'][0]['value'],value,"Steven Spielberg returns to executive produce the long-awaited next installment of his groundbreaking Jurassic Park series, Jurassic World. Colin Trevorrow directs the epic action-adventure based on characters created by Michael Crichton. The screenplay is by Rick Jaffa & Amanda Silver and Derek Connolly & Trevorrow, and the story is by Rick Jaffa & Amanda Silver. Frank Marshall and Patrick Crowley join the team as producers. (C) Universal"
+34,embedded_ooyala_programme_0_imdbid,$._embedded['ooyala:programme'][0]['imdbid'],value,369610
+35,embedded_ooyala_programme_0_directors_0_name,$._embedded['ooyala:programme'][0]['directors'][0]['name'],value,Don't change
+36,embedded_ooyala_programme_0_genre_ids_0,$._embedded['ooyala:programme'][0]['genre_ids'][0],value,513
+37,embedded_ooyala_programme_0_programme_id,$._embedded['ooyala:programme'][0]['programme_id'],value,50
+38,embedded_ooyala_programme_0_provider_id,$._embedded['ooyala:programme'][0]['provider_id'],value,SON
+39,embedded_ooyala_programme_0_offers_0_id,$._embedded['ooyala:programme'][0]['offers'][0]['id'],value,116
+40,embeddedooyala_programme_0_offers_0_offer_types_0,$._embedded['ooyala:programme'][0]['offers'][0]['offer_types'][0],value,SON_TV_EPS_PPV-Promotion-499-DayDate_SD_4
+41,embedded_ooyala_programme_0_offers_0_device_ids_0,$._embedded['ooyala:programme'][0]['offers'][0]['device_ids'][0],value,0f51bce0bd3bb505c5d7ae27c755354a33aafbec
+42,embedded_ooyala_programme_0_offers_0_window_start,$._embedded['ooyala:programme'][0]['offers'][0]['window_start'],value,11/18/15 11:00 AM
+43,embedded_ooyala_programme_0_offers_0_window_end,$._embedded['ooyala:programme'][0]['offers'][0]['window_end'],value,01/07/21 11:00 AM
+44,embedded_ooyala_programme_0_offers_0_window_status,$._embedded['ooyala:programme'][0]['offers'][0]['window_status'],value,comingsoon
+45,embedded_ooyala_programme_0_offer_filters_0,$._embedded['ooyala:programme'][0]['offer_filters'][0],value,SON_TV_EPS_PPV-Promotion-499-DayDate_SD_4:0f51bce0bd3bb505c5d7ae27c755354a33aafbec:comingsoon
+46,embedded_ooyala_programme_0_year,$._embedded['ooyala:programme'][0]['year'],value,2003
+47,embedded_ooyala_programme_0_ratings_critics_rating,$._embedded['ooyala:programme'][0]['ratings']['critics_rating'],value,Fresh
+48,embedded_ooyala_programme_0_ratings_critics_score,$._embedded['ooyala:programme'][0]['ratings']['critics_score'],value,71
+49,embeddedooyala_programme_0_ratings_audience_score,$._embedded['ooyala:programme'][0]['ratings']['audience_score'],value,80
+50,embedded_ooyala_programme_0_ratings_bigpond_rating,$._embedded['ooyala:programme'][0]['ratings']['bigpond_rating'],value,4 Stars
+51,embedded_ooyala_programme_0_ratings_bigpond_score,$._embedded['ooyala:programme'][0]['ratings']['bigpond_score'],value,4
+52,embedded_ooyala_programme_0_rating,$._embedded['ooyala:programme'][0]['rating'],value,4
+53,embedded_ooyala_programme_0_maturity_rating,$._embedded['ooyala:programme'][0]['maturity_rating'],value,NC
+54,embedded_ooyala_programme_0_image_landscape_mask,$._embedded['ooyala:programme'][0]['image_landscape_mask'],value,0
+55,embedded_ooyala_programme_0_ptype,$._embedded['ooyala:programme'][0]['ptype'],value,tv
+56,embedded_ooyala_programme_0_sea_pub,$._embedded['ooyala:programme'][0]['sea_pub'],value,published
+57,embedded_ooyala_programme_0_series_id,$._embedded['ooyala:programme'][0]['series_id'],value,51234
+58,embedded_ooyala_programme_0_series_title,$._embedded['ooyala:programme'][0]['series_title'],value,Test Asset for API_50_Automation
+59,embedded_ooyala_programme_0_id,$._embedded['ooyala:programme'][0]['id'],value,50
+60,embedded_ooyala_programme_0_links_self_href,$._embedded['ooyala:programme'][0]['_links']['self']['href'],200,
+61,embedded_ooyala_programme_0_links_ooyala_genre_href,$._embedded['ooyala:programme'][0]['_links']['ooyala:genre']['href'],200,
+62,embedded_ooyala_programme_0_links_ooyala_offer_href,$._embedded['ooyala:programme'][0]['_links']['ooyala:offer']['href'],200,
+63,embedded_ooyala_programme_0_links_ooyala_director_href,$._embedded['ooyala:programme'][0]['_links']['ooyala:director']['href'],200,
+64,embedded_ooyala_programme_0_links_ooyala_programmeReviews_href,$._embedded['ooyala:programme'][0]['_links']['ooyala:programmeReviews']['href'],200,
+65,embedded_ooyala_programme_0_links_ooyala_programmeReviews_title,$._embedded['ooyala:programme'][0]['_links']['ooyala:programmeReviews']['title'],value,Programme reviews
+66,embedded_ooyala_programme_0_links_ooyala_season_href,$._embedded['ooyala:programme'][0]['_links']['ooyala:season']['href'],200,
+67,embedded_ooyala_programme_0_links_ooyala_season_title,$._embedded['ooyala:programme'][0]['_links']['ooyala:season']['title'],value,Season
+68,embedded_ooyala_programme_0_links_ooyala_series_href,$._embedded['ooyala:programme'][0]['_links']['ooyala:series']['href'],200,
+69,embedded_ooyala_programme_0_links_ooyala_series_title,$._embedded['ooyala:programme'][0]['_links']['ooyala:series']['title'],value,Series
+70,embedded_ooyala_programme_0_embedded_ooyala_offer_0_title,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['title'],value,
+71,embedded_ooyala_programme_0_embedded_ooyala_offer_0_type,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['type'],value,
+72,embedded_ooyala_programme_0_embedded_ooyala_offer_0_field_offer_id_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['field_offer_id']['en'][0]['value'],value,00000050_SD
+74,embedded_ooyala_programme_0_embedded_ooyala_offer_0_field_offer_id_en_0_format,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['field_offer_id']['en'][0]['format'],value,
+75,embedded_ooyala_programme_0_embedded_ooyala_offer_0_field_offer_price_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['field_offer_price']['en'][0]['value'],value,4000
+76,embedded_ooyala_programme_0_embedded_ooyala_offer_0_field_offer_type_en_0_target_id,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['field_offer_type']['en'][0]['target_id'],value,12
+77,embedded_ooyala_programme_0_embedded_ooyala_offer_0_field_viewing_period_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['field_viewing_period']['en'][0]['value'],value,4
+78,embedded_ooyala_programme_0_embedded_ooyala_offer_0_window_start,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['window_start'],value,11/18/15 11:00 AM
+79,embedded_ooyala_programme_0_embedded_ooyala_offer_0_window_end,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['window_end'],value,01/07/21 11:00 AM
+80,embedded_ooyala_programme_0_embedded_ooyala_offer_0_device_ids_0,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['device_ids'][0],value,0f51bce0bd3bb505c5d7ae27c755354a33aafbec
+81,embedded_ooyala_programme_0_embedded_ooyala_offer_0_programme_ids_0,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['programme_ids'][0],value,50
+82,embedded_ooyala_programme_0_embedded_ooyala_offer_0_asset_ids_0,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['asset_ids'][0],value,IwcW94dTpiwRrhGVBVq6CqbmlOv-zExX
+83,embedded_ooyala_programme_0_embedded_ooyala_offer_0_offer_types_0,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['offer_types'][0],value,SON_TV_EPS_PPV-Promotion-499-DayDate_SD_4
+84,embedded_ooyala_programme_0_embedded_ooyala_offer_0_window_status,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['window_status'],value,comingsoon
+85,embedded_ooyala_programme_0_embedded_ooyala_offer_0_offer_filters_0,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['offer_filters'][0],value,SON_TV_EPS_PPV-Promotion-499-DayDate_SD_4:0f51bce0bd3bb505c5d7ae27c755354a33aafbec:comingsoon
+86,embedded_ooyala_programme_0_embedded_ooyala_offer_0_access_control_0_destinationID,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['access_control'][0]['destinationID'],value,
+87,embedded_ooyala_programme_0_embedded_ooyala_offer_0_access_control_0_deviceId,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['access_control'][0]['deviceId'],value,all_devices
+88,embedded_ooyala_programme_0_embedded_ooyala_offer_0_access_control_0_accessTerm,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['access_control'][0]['accessTerm'],value,null
+89,embedded_ooyala_programme_0_embedded_ooyala_offer_0_access_control_0_productTerm,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['access_control'][0]['productTerm'],value,null
+90,embedded_ooyala_programme_0_embedded_ooyala_offer_0_global_offset,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['global_offset'],value,3H
+91,embedded_ooyala_programme_0_embedded_ooyala_offer_0_id,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['id'],value,116
+92,embedded_ooyala_programme_0_embedded_ooyala_offer_0_links_self_href,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_links']['self']['href'],200,200_OK
+93,embedded_ooyala_programme_0_embedded_ooyala_offer_0_links_ooyala_asset_href,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_links']['ooyala:asset']['href'],200,200_OK
+94,embedded_ooyala_programme_0_embedded_ooyala_offer_0_links_ooyala_asset_asset_class,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_links']['ooyala:asset']['asset_class'],value,feature
+95,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_title,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['title'],value,00000050_SD - Test Asset for API_50_Automation
+96,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_type,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['type'],value,asset
+97,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_asset_status_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_asset_status']['en'][0]['value'],value,error
+98,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_asset_status_en_0_format,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_asset_status']['en'][0]['format'],value,null
+99,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_closed_captions_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_closed_captions']['en'][0]['value'],value,0
+100,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_color_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_color']['en'][0]['value'],value,BlackAndWhite
+101,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_color_en_0_format,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_color']['en'][0]['format'],value,null
+102,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_duration_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_duration']['en'][0]['value'],value,PT0H0M40.04S
+103,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_duration_en_0_format,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_duration']['en'][0]['format'],value,null
+104,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_subtitles_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_subtitles']['en'][0]['value'],value,0
+105,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_field_video_format_en_0_value,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['field_video_format']['en'][0]['value'],value,SD
+106,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_window_start,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['window_start'],value,07/01/01 07:43 AM
+107,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_window_end,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['window_end'],value,07/18/21 07:44 AM
+108,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_asset_class,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['asset_class'],value,feature
+109,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_ooyala,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['ooyala'],value,IwcW94dTpiwRrhGVBVq6CqbmlOv-zExX
+110,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_asset_id,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['asset_id'],value,50(followed by six zeros)
+111,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_programme_ids_0,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['programme_ids'][0],value,50(followed by six zeros)
+112,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_id,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['id'],value,IwcW94dTpiwRrhGVBVq6CqbmlOv-zExX
+113,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_links_self_href,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['_links']['self']['href'],200,
+114,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_links_ooyala_programme_href,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['_links']['ooyala:programme']['href'],200,
+115,embedded_ooyala_programme_0_embedded_ooyala_offer_0_embedded_ooyala_asset_0_links_ooyala_offer_href,$._embedded['ooyala:programme'][0]['_embedded']['ooyala:offer'][0]['_embedded']['ooyala:asset'][0]['_links']['ooyala:offer']['href'],200,

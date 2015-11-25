@@ -1,0 +1,8 @@
+ID,Hash_Key,Key,validation
+1,asset_type,$.type,value
+2,field_asset_status_value,$.field_asset_status['en'][0]['value'],value
+4,field_closed_captions_value,$.field_closed_captions['en'][0]['value'],value
+5,field_color,$.field_color['en'][0]['value'],value
+6,links_ooyala_programme_links,$._links['ooyala:programme']['href'],200
+7,links_ooyala_offer_links,$._links['ooyala:offer']['href'],200
+8,links_in_href,$._links['in']['href'],200

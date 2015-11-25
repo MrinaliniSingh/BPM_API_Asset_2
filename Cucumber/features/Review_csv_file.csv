@@ -1,0 +1,17 @@
+ID,hash_Key,path,validation
+1,Title,$.title,value
+2,type,$.type,value
+3,imdbid,$.imdbid,value
+4,field_critic_en_0_value,$.field_critic['en'][0]['value'],value
+5,field_critic_en_0_format,$.field_critic[en][0]['format'],value
+6,field_freshness_en_0_value,$.field_freshness.en[0]['value'],value
+7,field_freshness_en_0_format,$.field_freshness.en[0]['format'],value
+8,field_publication_en_0_value,$.field_publication.en[0]['value'],value
+9,field_publication_en_0_format,$.field_publication.en[0]['format'],value
+10,field_quote_en_0_value,$.field_quote.en[0]['value'],value
+11,field_review_date_en_0_value,$.field_review_date.en[0]['value'],value
+12,field_review_date_en_0_format,$.field_review_date.en[0]['format'],value
+14,field_review_link_en_0_title,$.field_review_link.en[0]['title'],value
+15,field_review_link_en_0_attributes,$.field_review_link.en[0]['attributes'][0],value
+16,id,$.id,value
+17,links_self_href,$._links['self']['href'],200

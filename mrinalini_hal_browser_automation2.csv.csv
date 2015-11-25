@@ -1,0 +1,14 @@
+ID,Hash_Key,Key
+1,asset_type,$.type
+2,field_asset_status_value,$.field_asset_status['en'][0]['value']
+4,field_closed_captions_value,$.field_closed_captions['en'][0]['value']
+5,field_color,$.field_color['en'][0]['value']
+6,field_duration_value,$.field_duration['en'][0]['value']
+7,field_subtitles_value,$.field_subtitles['en'][0]['value']
+8,window_start,$.window_start
+9,window_end,$.window_end
+10,class,$.asset_class
+11,embed_code,$.ooyala
+12,asset_id,$.asset_id
+13,programme_ids,$.['programme_ids'][0]
+14,id,$.id
